@@ -1,0 +1,176 @@
+{
+  "todos": [
+    {
+      "id": 1923,
+      "user_id": 3936,
+      "title": "Voluptate sperno articulus congregatio combibo decet.",
+      "due_on": "2022-07-08T00:00:00.000+05:30",
+      "status": "pending"
+    },
+    {
+      "id": 1922,
+      "user_id": 3935,
+      "title": "Thalassinus acies tepidus perspiciatis consectetur ars quia pectus quo temperantia.",
+      "due_on": "2022-07-17T00:00:00.000+05:30",
+      "status": "completed"
+    },
+    {
+      "id": 1921,
+      "user_id": 3934,
+      "title": "Cubo est vis theologus apostolus ubi amaritudo tondeo tricesimus.",
+      "due_on": "2022-07-10T00:00:00.000+05:30",
+      "status": "pending"
+    },
+    {
+      "id": 1920,
+      "user_id": 3933,
+      "title": "Pauci strenuus clarus coma quae cursim beneficium caste.",
+      "due_on": "2022-07-04T00:00:00.000+05:30",
+      "status": "completed"
+    },
+    {
+      "id": 1919,
+      "user_id": 3932,
+      "title": "Quam adimpleo appello incidunt adamo peior verbum.",
+      "due_on": "2022-07-10T00:00:00.000+05:30",
+      "status": "completed"
+    },
+    {
+      "id": 1918,
+      "user_id": 3929,
+      "title": "Cupiditas quis odio arbor brevis admitto cupressus.",
+      "due_on": "2022-06-20T00:00:00.000+05:30",
+      "status": "completed"
+    },
+    {
+      "id": 1917,
+      "user_id": 3927,
+      "title": "Aequus vulgivagus armo tum quos.",
+      "due_on": "2022-07-10T00:00:00.000+05:30",
+      "status": "pending"
+    },
+    {
+      "id": 1916,
+      "user_id": 3925,
+      "title": "Stips baiulus sonitus conforto quasi vesco.",
+      "due_on": "2022-07-08T00:00:00.000+05:30",
+      "status": "pending"
+    },
+    {
+      "id": 1915,
+      "user_id": 3924,
+      "title": "Bis itaque magni creator rerum cognatus talis suadeo arbustum.",
+      "due_on": "2022-06-28T00:00:00.000+05:30",
+      "status": "pending"
+    },
+    {
+      "id": 1913,
+      "user_id": 3921,
+      "title": "Harum avaritia textor tepesco arbor charisma adeo vulpes uterque adsuesco.",
+      "due_on": "2022-06-22T00:00:00.000+05:30",
+      "status": "pending"
+    },
+    {
+      "id": 1912,
+      "user_id": 3920,
+      "title": "Sophismata ter ventosus causa alias tribuo demoror qui arto.",
+      "due_on": "2022-07-05T00:00:00.000+05:30",
+      "status": "completed"
+    },
+    {
+      "id": 1911,
+      "user_id": 3919,
+      "title": "Alias solvo spiritus speculum usque copiose comis possimus.",
+      "due_on": "2022-06-19T00:00:00.000+05:30",
+      "status": "completed"
+    },
+    {
+      "id": 1910,
+      "user_id": 3918,
+      "title": "Agnitio conor sol avarus verumtamen deprecator unde.",
+      "due_on": "2022-06-26T00:00:00.000+05:30",
+      "status": "pending"
+    },
+    {
+      "id": 1909,
+      "user_id": 3916,
+      "title": "Benevolentia autus suggero subnecto depereo.",
+      "due_on": "2022-06-30T00:00:00.000+05:30",
+      "status": "pending"
+    },
+    {
+      "id": 1908,
+      "user_id": 3915,
+      "title": "Comedo voro absconditus amitto carcer sto summopere inventore necessitatibus fuga.",
+      "due_on": "2022-06-30T00:00:00.000+05:30",
+      "status": "completed"
+    },
+    {
+      "id": 1907,
+      "user_id": 3913,
+      "title": "Deleniti ultio conventus est anser spes inflammatio concido.",
+      "due_on": "2022-06-26T00:00:00.000+05:30",
+      "status": "pending"
+    },
+    {
+      "id": 1906,
+      "user_id": 3909,
+      "title": "Inflammatio capio vitiosus credo tantum comis.",
+      "due_on": "2022-06-21T00:00:00.000+05:30",
+      "status": "pending"
+    },
+    {
+      "id": 1905,
+      "user_id": 3907,
+      "title": "Advoco textus aegrotatio comitatus audax contabesco.",
+      "due_on": "2022-07-05T00:00:00.000+05:30",
+      "status": "completed"
+    },
+    {
+      "id": 1903,
+      "user_id": 3901,
+      "title": "Audax aqua vivo cernuus vorax virtus ultio.",
+      "due_on": "2022-07-09T00:00:00.000+05:30",
+      "status": "pending"
+    },
+    {
+      "id": 1902,
+      "user_id": 3897,
+      "title": "Sed ago video amoveo laboriosam acer voluptatem adultus.",
+      "due_on": "2022-07-13T00:00:00.000+05:30",
+      "status": "completed"
+    },
+    {
+      "user_id": 3901,
+      "newItem": "i need to get food",
+      "id": 1924
+    },
+    {
+      "user_id": 3338,
+      "newItem": "",
+      "id": 1925
+    },
+    {
+      "user_id": 2444,
+      "title": "2022-06-19",
+      "id": 1926
+    },
+    {
+      "user_id": 4464,
+      "title": "2022-06-19",
+      "id": 1927
+    },
+    {
+      "user_id": 3811,
+      "title": "meet with shapati",
+      "date": "2022-06-19",
+      "id": 1928
+    },
+    {
+      "user_id": 2260,
+      "title": "meet with shapati",
+      "date": "2022-06-19",
+      "id": 1929
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+.create{
+  width: 500px;
+  margin: 50px auto;
+}
+h4{
+  font-size: 35px;
+  display: block;
+  text-align: left;
+}
+.form-group input{
+  padding: 20px;
+  border-radius: 10px;
+  border: 0;
+  border: 1px solid rgb(129, 126, 126);
+  width: 100%;
+  font-size: 30px;
+  font-family: 'Poppins', sans-serif;
+}
+form button{
+  margin-top: 20px;
+  padding: 20px 10px;
+  width: 30%;
+  border: none;
+  border-radius: 10px;
+  font-family: 'Poppins', sans-serif;
+  background-color:#3734A9 ;
+  color: white;
+}
+.btn-grey{
+  margin-top: 20px;
+  padding: 20px 10px;
+  width: 30%;
+  border: none;
+  border-radius: 10px;
+  font-family: 'Poppins', sans-serif;
+  background-color:rgb(129, 126, 126) ;
+  color: white;
+  cursor: not-allowed;
+}

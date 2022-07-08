@@ -1,0 +1,51 @@
+.test{
+  width: 1370px;
+  margin: 20px auto;
+  display: grid;
+  grid-template-columns: repeat(3,auto);
+}
+.box{
+  position: relative;
+  width: 400px;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 3px 10px rgb(0 0 0 / 0.2);
+  height: 550px;
+  margin-bottom: 40px;
+}
+.box h1{
+  font-size: 20px;
+  font-weight: bolder;
+  margin-bottom: 30px;
+}
+.box p{
+  position: absolute;
+  top: 200px;
+}
+.box button{
+  position: absolute;
+  bottom: 30px;
+  padding: 17px ;
+  background-color: #3734A9 ;
+  border: none;
+  color: white;
+  border-radius: 5px ;
+  font-family: 'Poppins', sans-serif;
+}
+
+
+/* @media screen and (max-width:500px) {
+  .test{
+    grid-template-columns: repeat(1,auto);
+    width: 90%;
+    margin: 10px auto;
+    border: 1px solid black;
+    padding: 0;
+  }
+  .box{
+    width: 70%;
+    padding: 0;
+
+  }
+  
+} */

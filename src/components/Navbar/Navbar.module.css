@@ -1,0 +1,31 @@
+.navbar{
+  padding: 20px;
+  width: 1200px;
+  margin: 0px auto;
+  display: flex;
+  justify-content: right;
+}
+.navbar a{
+  text-decoration: none;
+  color: black;
+  margin-right: 20px;
+  align-self: center;
+
+}
+.navbar a:nth-child(4){
+  background-color: #3734A9;
+  padding: 10px;
+  color: white;
+  border-radius: 5px;
+}
+
+/* @media screen and (max-width:500px) {
+  .navbar{
+    width: 50%;
+    justify-content: space-between;
+    overflow: hidden;
+  }
+  .navbar a{
+    font-size: 12px;
+  }
+} */

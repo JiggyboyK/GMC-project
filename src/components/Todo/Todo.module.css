@@ -1,0 +1,42 @@
+
+.todo{
+    width: 500px;
+    margin: 50px auto;
+    height: 500px;
+    justify-content: center;
+}
+
+h4{
+    font-size: 35px;
+    display: block;
+    text-align: left;
+  }
+
+.form-group input{
+    margin-right: 10px;
+    width: 100%;
+    border: 0;
+    padding: 10px;
+    font-weight: 100;
+    border-radius: 15px;
+    border: 1px solid rgb(129, 126, 126);
+    font-family: 'Poppins', sans-serif;
+
+  }
+
+  form button{
+    margin-top: 20px;
+    padding: 10px;
+    width: 30%;
+    border: none;
+    border-radius: 10px;
+    font-family: 'Poppins', sans-serif;
+    background-color:#3734A9 ;
+    color: white;
+  }
+
+/* @media screen and (max-width : 500px) {
+    .todo{
+      width: 70%;
+    }  
+} */
